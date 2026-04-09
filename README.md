@@ -1,7 +1,5 @@
 # E-Commerce Backend Project
 
-Final Project Assignment - This repository contains the complete final project code and documentation.
-
 ##  Description
 
 This project is a backend system for an e-commerce platform developed using Spring Boot. It includes user authentication, product management, cart management, order processing, and payment integration.
